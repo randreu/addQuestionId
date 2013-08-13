@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+        <text>$cat1$/Supérate/Prueba Clasificatoria/5/V1/LEN/(Version 1)/(Version 1) M</text>
+
+    </category>
+  </question>
+
+<!-- question: 110497  -->
+  <question type="description">
+    <name>
+      <text>a</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;">Los conectores sirven para unir palabras y enunciados, dotándolos de un sentido coherente con el resto del texto. Completa el siguiente texto con los conectores que correspondan.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110729  -->
+  <question type="description">
+    <name>
+      <text>ba</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;"> Lee las siguientes preguntas y responde marcando una de las alternativas que se presentan.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110498  -->
+  <question type="description">
+    <name>
+      <text>f</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;">Completa el siguiente texto utilizando los mecanismos de correferencia que correspondan para dar coherencia al texto.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110511  -->
+  <question type="description">
+    <name>
+      <text>h</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p align="justify"><span style="color: #ffffff; font-size: large;"> Lee el siguiente texto y contesta las preguntas que se presentan posteriormente.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110510  -->
+  <question type="description">
+    <name>
+      <text>i</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p style="text-align: center;"><span style="font-size: x-large;"><strong>Una presencia</strong></span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: justify;"><span style="font-size: large;">Pedro abrió la puerta principal, la cual emitió un chirrido que le encrespó los vellos de la nuca. La madera parecía carcomida por termitas. Se asomó temeroso y dentro pudo oler el moho y el inconfundible aroma del encierro prolongado. El silencio parecía acechar en la penumbra, pero Pedro siguió caminando. Dio un paso y luego otro. Las maderas a sus pies crujieron roncamente. Se detuvo.</span></p>
+<p style="text-align: justify;"><span style="font-size: large;">La extraña desaparición de la familia Ortúzar hacía treinta años había conmocionado a todo el pueblo. Una vez que la investigación policial concluyó sin poder resolver el caso, la casa quedó al cuidado de una anciana que llegó del norte, quien estuvo al cuidado de esta por más de quince años, hasta su muerte. Nadie supo su nombre ni la relación que ella tenía con los Ortúzar. Nunca nadie la vio derramar una lágrima. Llegó al pueblo y nunca cruzó palabra con nadie. Ni siquiera con el párroco o con el dueño de la tienda, únicos personajes a quienes veía con cierta regularidad, ya que la mujer jamás faltaba a misa y compraba víveres con regularidad. Una tarde la encontraron en su cama luego de que el párroco notara su ausencia en la iglesia. Sostenía una biblia entre sus manos y estaba vestida y peinada. Luego de la muerte de la mujer, la casa quedó abandonada por mucho tiempo y todo tipo de historias comenzaron a tejerse en torno a la fatídica desaparición de los Ortúzar y a la muerte de la anciana desconocida. La casa comenzó a derruirse poco a poco y fue solo cosa de un par de años hasta que el recuerdo la convirtiera en la casa embrujada del pueblo.</span></p>
+<p style="text-align: justify;"><span style="font-size: large;">Pedro había caminado cientos de veces frente a la casa abandonada. Un escalofrío le recorría la espalda cada vez que pasaba por allí. El jardín descuidado y el balancín que en los días ventosos se meneaba como sosteniendo a una presencia invisible le producían una curiosidad y una atracción indescriptibles que fueron creciendo a medida que el muchacho entraba en la adolescencia. Ese día, Pedro había decidido entrar y ver lo que había en el interior de la casa. Se armó de valor y siguió caminando. Un paso. Luego otro. Todo estaba cubierto por una fina capa de polvo. Se asomó al comedor y lo que vio le puso los pelos de punta: sobre la mesa había un plato servido y en el plato, una sopa que humeaba.</span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110513  -->
+  <question type="description">
+    <name>
+      <text>n</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p align="justify"><span style="color: #ffffff; font-size: large;"> Lee el siguiente texto y contesta las preguntas que se presentan posteriormente.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110514  -->
+  <question type="description">
+    <name>
+      <text>o</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><a href="http://files.galyleo.net/contenido/imagenes/lenguaje/STAT00153.png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/STAT00153.png" alt="" width="100%" border="0" hspace="0" /></a></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110515  -->
+  <question type="description">
+    <name>
+      <text>v</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p align="justify"><span style="color: #ffffff; font-size: large;"> Lee el siguiente texto y contesta las preguntas que se presentan posteriormente. Para ver las siguientes páginas, haz clic sobre la flecha al costado inferior derecho de la pantalla.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110516  -->
+  <question type="description">
+    <name>
+      <text>w</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p align="center"><iframe src="http://files.galyleo.net/contenido/imagenes/lenguaje/STAT00185.swf" frameborder="0" align="middle" width="800" height="600"></iframe></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110730  -->
+  <question type="description">
+    <name>
+      <text>zaa</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;"><span> Lee las siguientes preguntas y responde marcando una de las alternativas que se presentan.</span></span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110518  -->
+  <question type="description">
+    <name>
+      <text>zg</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;">Completa el siguiente texto con el significado correcto para las señales que se muestran.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110731  -->
+  <question type="description">
+    <name>
+      <text>zha</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;"> Lee las siguientes preguntas y responde marcando una de las alternativas que se presentan.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110525  -->
+  <question type="description">
+    <name>
+      <text>zk</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<fieldset style="border-width: 3px; border-style: dashed; border-color: #031840; padding: 20px 20px 10px 10px; background-color: #031840;">
+<p style="text-align: justify;"><span style="font-size: large; color: white;">En una situación comunicativa intervienen diversos factores, tales como el emisor, el receptor, el mensaje, el código, el canal y el contexto. Lee el siguiente texto y elige las palabras para completarlo de acuerdo a los factores que intervienen en un proceso comunicativo.</span></p>
+</fieldset>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>0.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110486  -->
+  <question type="cloze">
+    <name>
+      <text>b</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="font-size: 18pt; text-align: center;">
+<p>¡Zimbalazum!</p>
+</div>
+<p> </p>
+<div style="font-size: 13.5pt; text-align: justify;">
+<p>{1:MULTICHOICE:~Antes~Sin embargo~=Cuando} Peter abrió la puerta del armario, se sobresaltó sobremanera. Un par de ojos pequeños y brillantes lo miraban fijo en la media luz de su cuarto, entre las ropas. Ahogó un grito y dio un paso hacia atrás. No sabía si pedir ayuda {1:MULTICHOICE:~y~=o~ni} correr. La criatura dio un paso al frente y se mostró completa. {1:MULTICHOICE:~=Ahora~Cuando~Antes} Peter podía verla de pie frente a él. Era un duende de las montañas. Medía casi un metro de altura y vestía ropas de color púrpura. {1:MULTICHOICE:~No bien~=Si bien~Por lo tanto} era pequeño, su mirada inspiraba respeto y la rigidez de su postura sugería que estaba listo para defenderse hábilmente ante el más mínimo movimiento en falso. Peter lo notó y por eso prefirió no hacer movimientos bruscos. {1:MULTICHOICE:~Por eso~=Sin embargo~Por lo tanto}, el muchacho también se plantó en su lugar y miró desafiante al pequeño: en su cuarto se seguían sus reglas y punto. Fue entonces cuando alzó la voz.</p>
+<p>—Quién eres y qué haces en mi cuarto— preguntó Peter. El leve y casi imperceptible temblor de su voz delató que estaba asustado, pero que también estaba dispuesto a pelear si era necesario.</p>
+<p>—Soy Colwuhr, Hijo de Culwahr, Rey de Quevennor. He atravesado el Bosque Silente y, {1:MULTICHOICE:~=mientras~después que~cuanto antes} lo hacía, caí en una madriguera de conejo y… aquí estoy. ¡Qué contratiempo! Debes regresarme de inmediato a Quevennor. Debo llegar a tiempo al Concilio de Mudrael…</p>
+<p>—Detente, Col… ¿cuál es tu nombre?— preguntó Peter, un tanto mareado con tanto nombre —, ¿dices que caíste en una madriguera de conejo?</p>
+<p>—Así es, mi amigo. En consecuencia, deberás regresarme inmediatamente, {1:MULTICHOICE:~aunque~como~=ya que} así lo estipulan las reglas en el reino y…</p>
+<p>—¡Un momento! Debo recordarte que no estamos en tu reino aquí. Y, para ser honesto, no tengo ni la más remota idea de cómo vino a parar un duende a mi armario. ¿Mi armario un portal espacio—temporal? ¡Vaya! Mi madre se enfadará mucho si…</p>
+<p>—¿Un duende dijiste? ¿Qué falta de respeto es esta? Debo recordarte que soy Colwuhr, Hijo de Culwahr, Rey de…</p>
+<p>—Ya, ya— interrumpió Peter—. Mis respetos, majestad. {1:MULTICHOICE:~Incluso~=No obstante~Conque }, lo importante ahora es averiguar cómo regresarte antes que mi madre me llame a cenar. Entra ahí nuevamente. ¿Recuerdas exactamente lo que hacías al caer a la madriguera?</p>
+<p>—Pues… caminaba. Iba con mi escolta. Era un día espléndido. Las aves revoloteaban y…</p>
+<p>—¿Pronunciaste alguna palabra al caer?— interrumpió Peter mientras sentaba al rey en la misma penumbra del armario donde lo encontró.</p>
+<p>—Pues dije… “¡Zimbalazum!”. Lo decimos de donde vengo cuando…</p>
+<p>{1:MULTICHOICE:~Al principio~=En ese preciso instante~Antes} el rey Colwuhr desapareció de la vista de Peter para siempre. Unos segundos {1:MULTICHOICE:~=más tarde~más temprano~antes de que}, la madre de Peter lo llamó a cenar. Estuvo callado durante toda la cena, preguntándose qué significaría esa mágica palabra.</p>
+</div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110436  -->
+  <question type="cloze">
+    <name>
+      <text>c</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;"><span>¿Qué enunciado está escrito correctamente?</span><br /><br />{1:MCV:<span>Los marineros se comportaron de manera extraña una ves que bajaron del bote.</span> ~<span>Los marineros se comportaron de manera extraña una vez que bajaron del vote.</span> ~<span>Los marineros se comportaron de manera estraña una ves que bajaron del bote.</span> ~=<span>Los marineros se comportaron de manera extraña una vez que bajaron del bote.</span>}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110438  -->
+  <question type="cloze">
+    <name>
+      <text>d</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué enunciado está escrito respetando las reglas de ortografía puntual?<br /><br />{1:MCV:Se le ruega a, los asistentes, apagar sus teléfonos celulares ~=Se le ruega a los asistentes apagar sus teléfonos celulares. ~Se le ruega, a los asistentes, apagar sus teléfonos celulares. ~Se, le ruega a los asistentes apagar sus teléfonos celulares}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110440  -->
+  <question type="cloze">
+    <name>
+      <text>e</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué oración está escrita correctamente de acuerdo a las reglas de ortografía acentual?<br /><br />{1:MCV:¿Donde está el álbum de fotografías? ~=¿Dónde está el álbum de fotografías? ~¿Dónde está el album de fotografías? ~¿Dónde esta el álbum de fotografías?}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110499  -->
+  <question type="cloze">
+    <name>
+      <text>g</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="font-size: 18pt; text-align: center;">
+<p>El pasadismo</p>
+</div>
+<div style="font-size: 13.5pt; text-align: justify;">
+<p>Mi padre, quien fuera un poeta toda su vida, escribió dos libros sobre el movimiento que {1:MULTICHOICE:~=él~la~ella} creó junto a algunos amigos de la universidad. Le pusieron “pasadismo” y sus amigos también publicaron algunos libros. {1:MULTICHOICE:~Esto~Esta~=Estos} describían el amor por la grandeza y la belleza del arte producido en edades esplendorosas, en {1:MULTICHOICE:~=las~los~la} cuales ellos pensaban que los artistas habían estado más cerca de alcanzar la divinidad. Para ellos, los museos eran lugares en los que el arte se había desarrollado de maneras increíbles, por lo cual debían ser conservados y protegidos como se {1:MULTICHOICE:~=hacía con~conservaba y protegía~hacían} las grandes catedrales.</p>
+<p>Para mi padre y sus amigos, era importantísimo rescatar el arte más antiguo y asegurar el desarrollo del espíritu humano, {1:MULTICHOICE:~la~las~=el} cual debía estar conectado con sus fuentes primordiales para que fuera acorde con la mentalidad moderna y sus nuevas realidades. Para eso, tomaron a los grandes pintores y poetas renacentistas como modelo. La pasión, la fe y la búsqueda de la belleza de {1:MULTICHOICE:~ellas~=ellos~él} fueron la inspiración para construir las bases del pasadismo y promover los fundamentos de {1:MULTICHOICE:~esta~=este~estos} en favor del rescate de los clásicos.</p>
+<p>Así, el pasadismo respeta la métrica clásica y confía completamente en {1:MULTICHOICE:~ellas~=ella~esas}. El pasadismo busca conservar el espíritu iluminista del pasado en sus textos, en {1:MULTICHOICE:~cuya~cuyos~=cuyas} páginas se pueden apreciar los valores que defendían los grandes maestros. Son {1:MULTICHOICE:~ellas~estas~=ellos}, a fin de cuentas, quienes lograron comprender y describir al ser humano en toda su plenitud.</p>
+</div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110442  -->
+  <question type="cloze">
+    <name>
+      <text>i</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Cómo se sentía Pedro en su adolescencia cuando pasaba por la casa de los Ortúzar?<br /><br />{1:MCV:Atemorizado por el balancín que se movía con el viento. ~Sobrecogido por la triste historia de la familia Ortúzar. ~Sorprendido por la misteriosa belleza de la casa embrujada. ~=Curioso y atraído por la misteriosa casa de los Ortúzar.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110444  -->
+  <question type="cloze">
+    <name>
+      <text>j</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Por qué se le pusieron los pelos de punta a Pedro al ver el plato de sopa sobre la mesa?<br /><br />{1:MCV:=Dado que eso indicaba la presencia de alguien en la casa embrujada. ~Puesto que supo que la presencia invisible que percibía en el balancín existía. ~Debido a que él estaba convencido de que alguien vivía en la casa aún. ~Porque era señal inequívoca de que alguien lo esperaba.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110446  -->
+  <question type="cloze">
+    <name>
+      <text>k</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué habría pasado si la anciana que cuidaba la casa no hubiese sido tan huraña?<br /><br />{1:MCV:Pedro jamás habría sentido miedo al pasar por la casa de la familia Ortúzar. ~No habría muerto de forma tan misteriosa la mujer de la casa. ~=No se habría especulado sobre la desaparición de la familia Ortúzar. ~Pedro habría entrado a la casa para ir en ayuda de la anciana.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110447  -->
+  <question type="cloze">
+    <name>
+      <text>l</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">En el fragmento: "...todo tipo de historias comenzaron a tejerse en torno a la <span style="color: #ff0000;"><strong>fatídica</strong></span> desaparición de los Ortúzar", ¿qué palabra reemplaza a la palabra "<span style="color: #ff0000;"><strong>fatídica</strong></span>" manteniendo su sentido?<br /><br />{1:MCV:Siniestra. ~Sorpresiva. ~Misteriosa. ~=Fatal.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110449  -->
+  <question type="cloze">
+    <name>
+      <text>m</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Cómo se podría clasificar el texto leído respecto de su temática?<br /><br />{1:MCV:Como un relato de aventuras. ~Como un relato de romance. ~=Como un relato de terror. ~Como un relato policial.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110451  -->
+  <question type="cloze">
+    <name>
+      <text>ma</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">En el fragmento: "Pedro abrió la puerta principal, la cual emitió un chirrido que le encrespó los vellos de la nuca. La madera parecía carcomida por termitas". ¿Qué caracteriza al ambiente físico del relato?<br /><br />{1:MCV:El mal olor y la oscuridad de una casa embrujada. ~=El abandono en el que se encuentra desde hace tiempo. ~La suciedad característica de un lugar habitado. ~La arquitectura del lugar y la firmeza de la construcción.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110453  -->
+  <question type="cloze">
+    <name>
+      <text>p</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">Según el texto, ¿por qué muchos músicos han vuelto a la grabación con cinta?<br /><br />{1:MCV:Puesto que para los músicos es mucho mejor grabar todo de una vez. ~=Porque según ellos la calidad de la grabación es superior. ~Dado que según los entendidos, el programa digital tiene un sonido menos limpio. ~Debido a que los músicos prefieren grabar en sus casas.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110455  -->
+  <question type="cloze">
+    <name>
+      <text>q</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué habría pasado si no hubiese aparecido el programa "Pro Tools"?<br /><br />{1:MCV:=La grabación de discos seguiría siendo lenta y costosa. ~Los discos tendrían una baja calidad de grabación. ~Los músicos nunca habrían podido grabar sus discos en sus propias casas ~Las bandas musicales no podrían grabar sus trabajos.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110457  -->
+  <question type="cloze">
+    <name>
+      <text>r</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;"><span>¿Por qué el sistema de grabación antiguo debía realizarse en una sala aislada acústicamente? </span><br /><br />{1:MCV:Debido a que les permitía a los músicos mantenerse concentrados para evitar equivocaciones. ~Dado que así el ingeniero lograba controlar los sonidos externos. ~Porque en este lugar la grabación se puede realizar en menos tiempo. ~=Puesto que no contaban con la tecnología suficiente para aislar los sonidos externos para dejar la grabación nítida y perfecta.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110459  -->
+  <question type="cloze">
+    <name>
+      <text>s</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Cuál de los siguientes enunciados sintetiza de mejor manera la información del párrafo 4 del texto?<br /><br />{1:MCV:Antes, los músicos cometían más errores durante la grabación, por lo que las partes debían grabarse de nuevo y por separado. ~=Antes, la grabación tardaba mucho tiempo pues cuando un músico se equivocaba, se grababa esa parte completa nuevamente. ~Antes, las grabaciones se realizaban cortando y mezclando varias cintas, formando una sola cinta final. ~Antes, se utilizaban cintas para grabar música. Luego de esto, el ingeniero se encargaba de editar y armar la cinta final.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110461  -->
+  <question type="cloze">
+    <name>
+      <text>t</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">En el fragmento: "Pero todo eso cambió con el <span style="color: #ff0000;"><strong>perfeccionamiento</strong></span> del computador y de un programa llamado “Pro Tools”". ¿Qué significa la palabra "<span style="color: #ff0000;"><strong>perfeccionamiento</strong></span>"?<br /><br />{1:MCV:Beneficio. ~Ayuda. ~Aporte. ~=Mejora.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110463  -->
+  <question type="cloze">
+    <name>
+      <text>wa</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Para qué se utiliza la lata de alimentos?<br /><br />{1:MCV:Para vaciar la parafina una vez derretida. ~Para guardar la pulpa del pomelo. ~Para sujetar el pomelo mientras se enfría la parafina. ~=Para poner la parafina sólida y derretirla.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110465  -->
+  <question type="cloze">
+    <name>
+      <text>x</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué se debe hacer inmediatamente después de cerciorarse de que la base de los pomelos es estable?<br /><br />{1:MCV:Colocar la pulpa del pomelo en un recipiente. ~Cortar los pomelos por la mitad. ~=Quitar la pulpa de ambas mitades. ~Perforar la base de la cáscara del pomelo.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110467  -->
+  <question type="cloze">
+    <name>
+      <text>y</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Qué sucedería si el orificio de la base del pomelo fuera muy grande?<br /><br />{1:MCV:Se perdería parte de la pulpa del pomelo. ~=La parafina derretida se escurriría por ahí. ~El mechero no quedaría hacia arriba. ~La parafina derretida se enfriaría más rápido.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110469  -->
+  <question type="cloze">
+    <name>
+      <text>z</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Por qué hay que cerciorarse de que la base de las mitades del pomelo sea estable?<br /><br />{1:MCV:Debido a que de lo contrario, la parafina no se enfriaría rápido. ~Dado que de ese modo el mechero quedaría más firme. ~Puesto que de ese modo es más fácil traspasar el mechero por el orificio. ~=Porque de lo contrario, la vela quedaría ladeada y no se podría verter la parafina.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110471  -->
+  <question type="cloze">
+    <name>
+      <text>za</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Para qué sirve la imagen presentada en el texto anterior?<br /><br />{1:MCV:Para explicar cómo debe quedar la mitad del pomelo sin pulpa. ~=Para ilustrar cómo pasar el mechero por el orificio del pomelo. ~Para convencer a los lectores de lo fácil que es hacer la vela. ~Para graficar cómo queda la vela de pomelo terminada.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110473  -->
+  <question type="cloze">
+    <name>
+      <text>zb</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Cuál es una característica del género narrativo?<br /><br />{1:MCV:=La voz ficticia que enuncia el relato se conoce como narrador. ~La voz ficticia que enuncia el relato se conoce como emisor. ~La voz ficticia que enuncia el relato se conoce como hablante lírico. ~La voz ficticia que enuncia el relato se conoce como autor.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110475  -->
+  <question type="cloze">
+    <name>
+      <text>zc</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">"Tras haber luchado por su amor, lograron vivir alejados de los rumores que tanto daño habían causado, y ya desde hace años se les puede ver de vez en cuando caminando felices por las calles de la ciudad". ¿A qué momento del relato corresponde el fragmento anterior?<br /><br />{1:MCV:Al desarrollo. ~Al clímax. ~Al inicio. ~=Al desenlace.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110477  -->
+  <question type="cloze">
+    <name>
+      <text>zd</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">Oh! Gallina son tus frutos rica fuente de energía pero quién conoce de tu dolor al darlos… ¿Cuál es el objeto lírico en el poema anterior?<br /><br />{1:MCV:El alimento. ~Los huevos. ~=La gallina. ~Los frutos.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110479  -->
+  <question type="cloze">
+    <name>
+      <text>ze</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">ANDRÉS: <span style="color: #ff0000;"><strong>Estoy seguro. Este es el lugar.</strong></span> ZAPATERO: <span style="color: #ff0000;"><strong>¿No te equivocas?</strong></span> ANDRÉS: <span style="color: #ff0000;"><strong>Aquí es donde se reúnen las brujas que te roban todos los zapatos que tú fabricas.</strong></span> ¿A qué elemento corresponde el texto destacado en el fragmento anterior?<br /><br />{1:MCV:Al cambio de escena tras el diálogo de los personajes. ~A la ambientación de la escena. ~=A los parlamentos de los personajes. ~A la caracterización de los personajes.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110481  -->
+  <question type="cloze">
+    <name>
+      <text>zf</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿Cuál de los siguientes fragmentos pertenece al género lírico?<br /><br />{1:MCV:="Recostada en el manto vestida de faro la luna iba sonriendo fresca y liviana como la invernal noche que sorprende a los aventureros". ~"Cae el atardecer en el jardín de la familia Correa. Se ve cómo el viento mueve la ropa tendida de los cordeles que cruzan el jardín. De pronto, entran Helena y su abuela a escena". ~"Rápidamente, fue hasta la cocina y miró por la ventana. Sus oídos no lo engañaban, la tormenta había llegado para quedarse por un mes, sin detenerse por un instante". ~"La abuela tomaba su té, sentada en la esquina del sillón. Se extraviaba en sus recuerdos y de cuando en cuando se le oía decir: —¿Recuerdas Martín, ese viaje que hicimos juntos al sur?—".}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110519  -->
+  <question type="cloze">
+    <name>
+      <text>zh</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="font-size: 18pt; text-align: center;">
+<p>¿Sabes qué significan?</p>
+</div>
+<p> </p>
+<div style="font-size: 13.5pt; text-align: justify;">
+<p>De paseo por una bella ciudad costera, Osvaldo le pregunta a su hijo Óscar si sabe el significado de ciertas señales. La primera que ven es <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,01).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,01).png" alt="" width="60px" border="0" hspace="0" /></a>. Óscar supo inmediatamente que indicaba un {1:MULTICHOICE:~ mail en su buzón ~=lugar con conexión a Internet~ un espacio de estudio }. Luego vio la señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,02).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,02).png" alt="" width="60px" border="0" hspace="0" /></a> y supuso que habría una {1:MULTICHOICE:~=iglesia~ secuela ~ municipio} muy cerca de allí. Quizás la visitarían. Después vio la señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,03).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,03).png" alt="" width="60px" border="0" hspace="0" /></a> y supo que esa era la razón del viaje de su padre. Sabía que esa era una zona en la que estaba permitido cazar.<br />Después de un tiempo, la madre de Óscar le mostró al padre la señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,04).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,04).png" alt="" width="60px" border="0" hspace="0" /></a>, que indicaba que había {1:MULTICHOICE:~ granjas ~=viñedos~ ganado } cerca. Muchos de ellos eran atracciones turísticas de la zona. También vieron la señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,05).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,05).png" alt="" width="60px" border="0" hspace="0" /></a>. Esta señal indicaba que había ruinas de interés histórico. La señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,06).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,06).png" alt="" width="60px" border="0" hspace="0" /></a> indicaba que otro de los grandes pasatiempos del padre de Óscar se podía practicar ahí. Estaba {1:MULTICHOICE:~=permitido pescar~ permitido observar los peces ~ prohibido pescar }. La señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,07).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,07).png" alt="" width="60px" border="0" hspace="0" /></a> indicaba que las excursiones les permitirían ver especies protegidas de animales de la zona. Óscar estaba muy entusiasmado con todo ello. Finalmente, vieron la señal <a href="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,08).png" target="_blank"><img src="http://files.galyleo.net/contenido/imagenes/lenguaje/(52117,08).png" alt="" width="60px" border="0" hspace="0" /></a>, que indicaba que había un {1:MULTICHOICE:~ aeropuerto ~ restaurant~=hotel} cerca. ¡Qué bueno! Estaban muy cansados.</p>
+</div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110482  -->
+  <question type="cloze">
+    <name>
+      <text>zi</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><span style="font-size: 13.5pt; line-height: 1.231; text-align: justify;">Paula vio un mensaje publicitario en televisión donde su actriz favorita decía lo siguiente: "Cada uno de nosotros es responsable de que nuestro planeta esté muriendo. No podemos seguir evadiendo nuestra responsabilidad. Reciclar no es una opción, sino nuestro deber. No seas cómplice de esta matanza. Cuida el planeta. Recicla". ¿Cuál es el propósito comunicativo del mensaje transmitido a través del fragmento anterior?</span></p>
+<div style="text-align: justify; font-size: 13.5pt;"><br />{1:MCV:=Persuadir a los espectadores de tomar conciencia sobre la importancia de reciclar. ~Educar a los espectadores sobre las diversas formas en que se puede ayudar al planeta reciclando. ~Enseñar a los espectadores sobre las diversas formas en que se debe reciclar para cuidar al planeta. ~Informar a los espectadores sobre las consecuencias de no reciclar.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110484  -->
+  <question type="cloze">
+    <name>
+      <text>zj</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p><br /><br /></p>
+<div style="text-align: justify; font-size: 13.5pt;">¿En cuál de los siguientes fragmentos predomina la función apelativa?<br /><br />{1:MCV:=Andrés y Gustavo, hagan sus deberes de la escuela. ~Querida abuela, te extrañamos muchísimo. ~Me siento muy emocionada. ~El carro se averió la semana pasada.}<br /><br /></div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+<!-- question: 110526  -->
+  <question type="cloze">
+    <name>
+      <text>zl</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<div style="font-size: 24pt; text—align: center;">
+<p style="text-align: center;"><strong><span style="font-size: x-large;">En el fondo</span></strong></p>
+</div>
+<div style="font-size: 18pt; text—align: justify;">
+<p style="text-align: justify;"><span style="font-size: large;">El verano pasado, Pedro vivió una de las aventuras más extraordinarias de su vida. El abuelo de William, Charles, los sacó a pasear en su magnífico bote por la bahía. Les habló sobre los piratas y sus grandes tesoros escondidos como si él mismo hubiera presenciado los viajes de los corsarios y atrevidos marineros. Les contó en su perfecto español que muchos de aquellos tesoros perdidos descansaban aún en algunos lugares a orillas del mar o habían sido perdidos en combates navales a solo unas cuantas yardas de la costa. En esta situación, el abuelo Charles es el {1:MULTICHOICE:~mensaje~=emisor~canal} y su relato sobre los piratas corresponde al {1:MULTICHOICE:~código~=mensaje~emisor}. Pedro y William, que escuchaban atentos, son cada uno un {1:MULTICHOICE:~=receptor~contexto~canal} de ese relato. El hecho que el abuelo contara las historias en español corresponde al {1:MULTICHOICE:~=código~receptor~canal} en el que el mensaje es entregado. El hecho de que el abuelo contara los relatos con su voz, nos indica que el {1:MULTICHOICE:~receptor~emisor~=canal} es oral y no escrito. </span><br /><span style="font-size: large;">Navegaron hasta que llegaron a aguas poco profundas. Con su calmada voz dijo “este es el lugar”. Pedro y William se miraron y no entendieron. El abuelo Charles miró a William y con un ademán le ordenó ponerse de pie. </span><br /><span style="font-size: large;">—Bajaré aquí. Ustedes quédense y vigilen el bote. Subiré en unos segundos.</span><br /><span style="font-size: large;">Luego se puso su escafandra autónoma de un cilindro y se arrojó de espaldas al agua. William y Pedro quedaron atónitos por unos segundos. Luego William le dijo a Pedro:</span><br /><span style="font-size: large;">—Mi abuelo es así. Déjalo, está un poco chiflado.</span><br /><span style="font-size: large;">Se volvieron a sentar cómodamente y William le preguntó a Pedro si quería una gaseosa. La pregunta de William corresponde aquí al mensaje, siendo William el {1:MULTICHOICE:~canal~receptor~=emisor} y Pedro el {1:MULTICHOICE:~=receptor~emisor~código}. Así que bebieron bajo el cálido sol y luego William abrió una libreta y escribió en una hoja la fecha de ese día. Le explicó a Pedro que su abuelo siempre le pedía que llevara un registro de navegación por él. En esta situación, hay un cambio de {1:MULTICHOICE:~=canal~código~emisor}, ya que la comunicación aquí se da de manera escrita y no oral. William es el {1:MULTICHOICE:~=emisor~receptor~canal} y el abuelo, que leerá el diario de navegación de William, es el {1:MULTICHOICE:~=receptor~contexto~emisor}. De pronto, el abuelo de William surgió de las aguas. Levantó su mano y pudieron ver varias monedas doradas en ella. Quedaron boquiabiertos. Le dijo algo en inglés a William y partieron. Levantó el puño en señal de triunfo y sonrió. Aquí nuevamente hay un cambio: el abuelo de William habla en inglés, por lo que el código comunicativo cambió por un instante. </span><br /><span style="font-size: large;">—¿Qué dijo?— le preguntó Pedro a su amigo. </span><br /><span style="font-size: large;">—Que volveríamos mañana.</span></p>
+</div>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+  </question>
+
+</quiz>
