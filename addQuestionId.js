@@ -16,9 +16,10 @@ AddQuestionId.prototype._init = function() {
     this._currentId = null;
     this._lineNumber = 0;
     this._writeStream = null;
+    this._questionCount = 0;
 };
 
-AddQuestionId.prototype.process = function(inputPath, outputPath) {
+AddQuestionId.prototype.process = function(inputPath, outputPath, callback) {
     
     var readStream = fs.createReadStream(inputPath);
     this._writeStream = fs.createWriteStream(outputPath, {flags : 'w'});
@@ -37,6 +38,7 @@ AddQuestionId.prototype.process = function(inputPath, outputPath) {
                     }
                     wLine = qMatch[1] + ' id="' + self._currentId + '" ' + qMatch[2];
                     self._currentId = null;
+                    self._questionCount++;
                 }
                 else if(null === self._currentId) {
                     var match = self._questionIdRegex.exec(line);
@@ -49,5 +51,8 @@ AddQuestionId.prototype.process = function(inputPath, outputPath) {
                     self._writeStream.write(wLine + '\n');
                 }
             }
+        })
+        .join(function(){
+            callback(false, self._questionCount);
         });
 };
