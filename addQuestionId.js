@@ -20,13 +20,17 @@ AddQuestionId.prototype._init = function() {
 };
 
 AddQuestionId.prototype.process = function(inputPath, outputPath, callback) {
+    var self = this;
+    
+    this._writeStream = fs.createWriteStream(outputPath, {flags : 'w'});
+    this._writeStream.on('close', function(){ callback(false, self._questionCount); });
     
     var readStream = fs.createReadStream(inputPath);
-    this._writeStream = fs.createWriteStream(outputPath, {flags : 'w'});
-    var self = this;
+    readStream.on('close', function(){ self._writeStream.end(); });
+    
     new Lazy(readStream)
         .lines
-        .forEach(function(pLine){
+        .map(function(pLine){
             self._lineNumber++;
             if(pLine.length > 1) {
                 var line = pLine.toString();
@@ -51,8 +55,5 @@ AddQuestionId.prototype.process = function(inputPath, outputPath, callback) {
                     self._writeStream.write(wLine + '\n');
                 }
             }
-        })
-        .join(function(){
-            callback(false, self._questionCount);
         });
 };
