@@ -18,6 +18,7 @@ count : Number of processed questions.
 
 Example:
 
+```
 new AddQuestionId()
     .process(
             'input/Clasificatoria 5-LEN-(Version 1).xml',
@@ -26,7 +27,8 @@ new AddQuestionId()
                 if(error) return console.log('There was an error:' + error);
                 console.log('Process finished. ' + count + ' questions processed.');
             });
-            
+```
+
 
 To test : node test
 
