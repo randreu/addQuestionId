@@ -9,7 +9,24 @@ First, run npm install (to install dependences)
 
 var AddQuestionId = require('addQuestionId').AddQuestionId;
 var addQuestionId = new AddQuestionId();
-addQuestionId.process(inputPath, outputPath);
+addQuestionId.process(inputPath, outputPath, callback);
+
+callback function receive two parameters:
+
+err : false if everything went fine. An error otherwise
+count : Number of processed questions.
+
+Example:
+
+new AddQuestionId()
+    .process(
+            'input/Clasificatoria 5-LEN-(Version 1).xml',
+            'output/Clasificatoria 5-LEN-(Version 1).xml',
+            function(error, count){
+                if(error) return console.log('There was an error:' + error);
+                console.log('Process finished. ' + count + ' questions processed.');
+            });
+            
 
 To test : node test
 
